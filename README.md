@@ -54,7 +54,7 @@ If you enter a non-numeric value for your age, the program will display an error
 ## Code
 
 ```scala
-object SpaceAgeCalculator {
+object AgeConverterToOtherPlanets {
   private val OrbitalPeriods = Map(
     "Mercury" -> 0.2408467,
     "Venus" -> 0.61519726,
