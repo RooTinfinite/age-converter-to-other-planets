@@ -1,5 +1,5 @@
 # Age Converter to Other Planets
-
+[![repo_lang](https://skillicons.dev/icons?i=scala)](#)
 This project provides a Scala program that calculates your age on various planets based on your age in Earth seconds.
 
 ## Features
